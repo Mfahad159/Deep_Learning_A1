@@ -6,7 +6,7 @@ The work progresses from a NumPy implementation of backpropagation to PyTorch ex
 
 ## Repository Contents
 
-- [`dlp-a-1-23f-0696-23f-0608.ipynb`](dlp-a-1-23f-0696-23f-0608.ipynb): Complete analysis, implementations, training runs, plots, and written results.
+- [`DLP_A1_23F_0696_23F_0608.ipynb`](DLP_A1_23F_0696_23F_0608.ipynb): Complete analysis, implementations, training runs, plots, and written results.
 - `README.md`: Reproduction and project documentation.
 
 ## Dataset
